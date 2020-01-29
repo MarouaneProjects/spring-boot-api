@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.vladsch.flexmark:flexmark-profile-pegdown:0.34.28">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-profile-pegdown/0.34.28/flexmark-profile-pegdown-0.34.28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-profile-pegdown/0.34.28/flexmark-profile-pegdown-0.34.28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/vladsch/flexmark/flexmark-profile-pegdown/0.34.28/flexmark-profile-pegdown-0.34.28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

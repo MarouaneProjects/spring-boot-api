@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7808b034-3c85-454e-927a-1d28d7738b35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Project/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/About.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/AddTourPackages.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/AdminLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/AdminOptions.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Contact.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Display.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Header2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Header3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Agra(Taj Mahal).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Allimage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Goa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Golden_Temple_Nightview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Jaisalmer-Fort.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/LADAKH(Jammu &amp; Kashmir).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Madurai(TamilNaru).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Manali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Rishikesh(Ram Jhula).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Temple-Jagannath(Puri).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/Victoria(Kolkata).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/eco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/hawa-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/indiagate(Delhi).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/kaziranga-national-park-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/tea-garden.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Image/travel-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Message.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Offers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Payment.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/PlaceDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Receipt.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/Register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/UserLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/ViewBooking.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/ViewPackages.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/ViewPlace.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/ViewUserDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/WEB-INF/lib/ojdbc6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/AddTourPackages.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/AdminLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/AdminLogout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/DisplayImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/PlaceDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/UserLogout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/build/classes/Travel/UserRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/AddTourPackages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/AdminLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/AdminLogout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/DisplayImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/PlaceDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/Print.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/UserLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/UserLogout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project/src/Travel/UserRegister.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Wyq3V11cDGFi79V3rYWe5zlZiO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Seed">
+    <configuration name="Seed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youcode.spring.sbootapi.ShopApiApplication" />
+      <option name="PROGRAM_PARAMETERS" value="seeds" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopApiApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shop-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youcode.spring.sbootapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youcode.spring.sbootapi.ShopApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="shop-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.melardev.spring.shoppingcartweb.ShopApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ShopApiApplication" />
+      <item itemvalue="Spring Boot.Seed" />
+      <item itemvalue="Spring Boot.ShopApiApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ShopApiApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7808b034-3c85-454e-927a-1d28d7738b35" name="Default Changelist" comment="" />
+      <created>1580131982120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580131982120</updated>
+      <workItem from="1580131983420" duration="16091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
